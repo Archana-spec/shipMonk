@@ -62,10 +62,10 @@ class Node {
 	$intList->display();
 	
 	$stringList = new SortedLinkedList("string");
-	$stringList->insert("Hello");
-	$stringList->insert("World");
-	$stringList->insert("SortedLinkedList");
-	$stringList->insert("String");
+	$stringList->insert("Amazon");
+	$stringList->insert("Web");
+	$stringList->insert("Services");
+	$stringList->insert("SortedLinkedlist");
 	
 	$stringList->display();
 ?>
